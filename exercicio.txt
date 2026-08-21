@@ -1,0 +1,31 @@
+Criar dois componentes 
+**destruct
+Treinamento com (Id, nome, email, telefone)
+criar um botão com a nota do treinamento
+**props
+Curso com (nome, descrição ,data)	
+
+
+CRIAR UM PROJETO EM REACT + VITE 
+
+LIMPAR O PROJETO
+CRIAR A PASTA components
+DENTRO DA PASTA components criar os componentes 
+
+
+Props
+
+Loja.jsx ( Nome, Endereço, Cidade, Telefone e colocar uma imagem)  
+criar um botão de avaliaçao da loja
+Treino.jsx (Id, Nome, Dia, tipoTreino, quantidade, tempo)
+
+Destruct
+
+Pet.jsx (Id, nome , raça, cor, porte,uma imagem)
+criar um botão com avaliação do atendimento
+Contato.jsx ( Id, Nome, telefone, email)
+
+Fazer o versionamento semântico com no minimo 5 commits
+
+
+
