@@ -1,3 +1,4 @@
+import Aluno from "./components/Aluno"
 
 const App = () => {
   return (
@@ -10,7 +11,7 @@ const App = () => {
 
     
     <>
-      
+      <Aluno nome="Fiap" idade="30"/>
     </>
   )
 }
